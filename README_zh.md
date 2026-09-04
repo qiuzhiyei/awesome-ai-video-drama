@@ -180,6 +180,7 @@
 
 | 项目                                                                   | 特点               | 简介                               | 许可证        | Star |
 | -------------------------------------------------------------------- | ---------------- | -------------------------------- | ---------- | ---- |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)    | Agent 驱动可编辑时间线 | 本地优先 TypeScript CLI/MCP 工具包，以 `plan.json` 编排、剪辑、生成并自动成片 | MIT | 491 |
 | [html-video](https://github.com/nexu-io/html-video)                  | HTML 转 MP4       | 编程式视频，HTML 转 MP4，21 个模板          | Apache-2.0 | -    |
 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | Claude Code 视频技能 | Claude Code AI 视频技能，Remotion 电影级 | -          | -    |
 

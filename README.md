@@ -168,6 +168,7 @@ A curated list of 70+ open-source tools covering AI video generation, AI short d
 
 | Project | Highlight | Description | License | Star |
 |---------|-----------|-------------|---------|------|
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Agent-driven editable timeline | Local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling video from `plan.json` timelines | MIT | 491 |
 | [html-video](https://github.com/nexu-io/html-video) | HTML to MP4 | Programmatic video, HTML to MP4, 21 templates | Apache-2.0 | - |
 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | Claude Code video skill | Claude Code AI video skill, Remotion cinematic | - | - |
 
