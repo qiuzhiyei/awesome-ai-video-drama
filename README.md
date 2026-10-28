@@ -47,6 +47,8 @@ A curated list of 70+ open-source tools covering AI video generation, AI short d
 
 ## 🎬 AI Video Creation Engines
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 | Project | Highlight | Description | License | Star |
 |---------|-----------|-------------|---------|------|
 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based AI engine | Connect AI models via node graph to generate images, videos, 3D, audio. The foundation of most AI video tools | GPL-3.0 | 130.3k |
